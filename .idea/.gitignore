@@ -7,3 +7,5 @@
 /dataSources/
 /dataSources.local.xml
 /encodings.xml
+/artifacts/my_simple_web_app_war.xml
+/artifacts/my_simple_web_app_war_exploded.xml
